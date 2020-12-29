@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Fractum IT</title>
-    <link href="https://FractumSeraph.github.io/feed.xml" rel="self" />
-    <link href="https://FractumSeraph.github.io" />
+    <link href="https://dakotamullins.dev/feed.xml" rel="self" />
+    <link href="https://dakotamullins.dev" />
     <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>Dakota Mullins</name>
     </author>
-    <id>https://FractumSeraph.github.io</id>
+    <id>https://dakotamullins.dev</id>
 
 </feed>
