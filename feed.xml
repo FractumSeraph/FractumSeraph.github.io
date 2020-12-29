@@ -3,7 +3,7 @@
     <title>Fractum IT</title>
     <link href="https://dakotamullins.dev/feed.xml" rel="self" />
     <link href="https://dakotamullins.dev" />
-    <updated>2020-12-29T15:02:15-06:00</updated>
+    <updated>2020-12-29T15:09:04-06:00</updated>
     <author>
         <name>Dakota Mullins</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://dakotamullins.dev/backing-up-youtube-channels-with-youtube-dl.html"/>
         <id>https://dakotamullins.dev/backing-up-youtube-channels-with-youtube-dl.html</id>
 
-        <updated>2020-12-29T15:02:15-06:00</updated>
+        <updated>2020-12-29T15:09:04-06:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://dakotamullins.dev/media/posts/1/YouTubeLogo.jpg" alt="YouTube Logo" />
                     Downloading YouTube videos is surprisingly simple. A tool called Youtube-DL exist that can take the link to a video, playlist, or channel, and download it. This post will show you hoe to do this as simply as possible. To start, if you just want to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://dakotamullins.dev/media/posts/1/YouTubeLogo.jpg" alt="YouTube Logo" />
                 <p>Downloading YouTube videos is surprisingly simple.  A tool called Youtube-DL exist that can take the link to a video, playlist, or channel, and download it.  This post will show you hoe to do this as simply as possible.</p>
 <p>To start, if you just want to start downloading videos as quick as you can, here you can download everything all ready to go in one nice .zip file.  You simply need to paste the links in the "ArchiveList.txt" file, and double click the "_update.bat" file.<br>If you get an error while trying to run the program, then you may need to install the visual studio runtimes, which are also included in the zip. ("vcredist_x86.exe")</p>
 <p>Running this file will download everything in the ArchiveList file at the highest quality, and put them in a folder separated by channel.</p>
