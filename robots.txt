@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://FractumSeraph.github.io/sitemap.xml
