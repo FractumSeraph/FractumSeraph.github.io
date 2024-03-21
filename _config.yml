@@ -10,6 +10,3 @@ plugins:
   - jekyll-remote-theme
 header_pages:
   - about.md
-minima:
-  skin: classic
-remote_theme: pages-themes/hacker@v0.2.0
