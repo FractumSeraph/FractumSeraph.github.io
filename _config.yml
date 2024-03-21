@@ -3,7 +3,7 @@ author:
   name: FractumSeraph
   email: web@fractumseraph.net
 description: Where I sometimes post things.
-theme: hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
