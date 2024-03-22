@@ -3,10 +3,9 @@ author:
   name: FractumSeraph
   email: web@fractumseraph.net
 description: Where I sometimes post things.
-remote_theme: pages-themes/hacker@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
 header_pages:
   - about.md
