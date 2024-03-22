@@ -7,5 +7,7 @@ theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - github-pages
+  - jekyll-theme-hacker
 header_pages:
   - about.md
